@@ -1,5 +1,13 @@
 ---
-title: "shayleeannf.github.io"
+title: "Personal Website"
+image: media/image.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: github
+      href: https://github.com/shayleeannf
+      target: blank
 ---
 
 This is a Quarto website.
