@@ -10,10 +10,13 @@ about:
       target: blank
 ---
 
-This is a Quarto website.
+# Header 1
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Header 2
 
-```{r}
-1 + 1
+### Header 3
+
+Paragraph Text
+
+```{}
 ```

@@ -1,1 +1,17 @@
 /* css styles */
+h1 {
+  color: purple;
+  font-style: italic;
+}
+h2 {
+  color: green;
+}
+p {
+  color: black;
+}
+body {
+  background-color: antiquewhite;
+}
+a { /*link color: underlined and colored*/
+  color: red;
+}

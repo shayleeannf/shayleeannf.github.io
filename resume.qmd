@@ -1,0 +1,11 @@
+---
+title: "My Resume"
+resources:
+  - media/public_info.pdf
+---
+
+{{< pdf media/public_info.pdf width = 100% height = 800 >}}
+---
+
+```{}
+```

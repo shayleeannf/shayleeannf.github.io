@@ -5,10 +5,16 @@ project:
 website:
   title: "Shaylee-Ann Billaber-Ferrer"
   navbar:
-    left:
-      - href: index.qmd
+    right:
+      - href: index.qmd ##each href dash is a new page link
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - icon: github
+        href: http://github.com/shayleeannf
+        target: blank
 
 format:
   html:
