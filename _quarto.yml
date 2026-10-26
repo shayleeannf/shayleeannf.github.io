@@ -19,6 +19,7 @@ website:
 format:
   html:
     theme: pulse
+    theme-toggle: false
     css: styles.css
     toc: true
 
