@@ -18,8 +18,8 @@ website:
 
 format:
   html:
-    theme: pulse
-    theme-toggle: false
+    theme: 
+      light: pulse
     css: styles.css
     toc: true
 
