@@ -8,10 +8,10 @@ website:
     right:
       - href: index.qmd ##each href dash is a new page link
         text: Home
-      - href: about.qmd
-        text: About
       - href: resume.qmd
         text: Resume
+      - href: about.qmd
+        text: Mokuoloe Dashboard
       - icon: github
         href: http://github.com/shayleeannf
         target: blank

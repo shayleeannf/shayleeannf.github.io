@@ -10,13 +10,9 @@ about:
       target: blank
 ---
 
-# Header 1
+**Hi there!**
 
-## Header 2
+I am a student at Chaminade University studying Computer Science and Data Science. This website serves as both a personal get to know me and an overview into the projects that I have created so far.
 
-### Header 3
-
-Paragraph Text
-
-```{}
+```         
 ```

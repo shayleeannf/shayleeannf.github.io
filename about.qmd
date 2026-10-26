@@ -1,9 +1,6 @@
 ---
-title: "About"
+title: "Mokuoloe Dashboard"
 ---
 
-About this site
-
-```{r}
-1 + 1
+```{}
 ```
