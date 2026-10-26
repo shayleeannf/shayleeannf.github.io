@@ -14,3 +14,6 @@ body {
 a { /*link color: underlined and colored*/
   color: #7F66AD;
 }
+.quarto-color-scheme-toggle {
+  display: none !important;
+}
