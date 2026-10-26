@@ -1,0 +1,52 @@
+---
+title: "Sea Level Rise and Coastal Flooding at Mokuoloe"
+---
+
+### **Project Overview**
+
+As part of the 2026 SCIPE CyberInfrastructure Summer Immersion Program, I developed an interactive data visualization dashboard to explore how sea-level rise could affect Mokuoloe (Coconut Island), located in Kāneʻohe Bay on the windward coast of Oʻahu, Hawaiʻi.
+
+Mokuoloe is an important location for marine science and research. Its coastal setting makes understanding future sea levels and extreme water events especially relevant. This project brings together sea-level rise projections and extreme water-level data to explore how rising baseline sea levels could influence future coastal flooding.
+
+### **Research Objectives**
+
+The goal of this project was to investigate the potential relationship between long-term sea-level rise and extreme water levels at Mokuoloe. I aimed to make climate projection data easier to explore and interpret through interactive visualizations.
+
+The dashboard focuses on three questions:
+
+- How do projected sea levels change over time under different scenarios?
+
+- How do extreme water-level thresholds compare in magnitude?
+
+- How could combining a projected sea-level baseline with an extreme water-level event illustrate potential future flood heights?
+
+### **Data and Methodology**
+
+I used Python to work with two cleaned datasets: sea-level rise projections and extreme water-level thresholds. The data were prepared as CSV files and incorporated into an interactive Streamlit application.
+
+Using Pandas, I loaded and transformed the datasets, including converting sea-level rise measurements from centimeters to meters. I used Plotly to create interactive charts that allow users to select projection scenarios and extreme water-level events.
+
+The dashboard combines these datasets to estimate potential future flood crest heights by adding a projected sea-level rise value to a selected extreme water-level value. This provides an illustrative way to examine how rising baseline sea levels may affect future water levels.
+
+### **Interactive Dashboard**
+
+##### The dashboard includes three main visualizations:
+
+1.  **Sea-Level Rise Projections:** Explore how projected sea levels change over time under different scenarios.
+
+2.  **Extreme Water-Level Thresholds:** Compare water-level thresholds associated with different return periods.
+
+3.  **Combined Flood-Height Estimates:** Explore how a selected extreme water-level event could combine with projected sea-level rise to produce higher future water levels.
+
+### **Project Takeaways**
+
+This project gave me experience turning environmental datasets into an interactive tool for exploring climate-related questions. It also helped me practice data preparation, visualization, and communicating technical information through a user-facing application.
+
+The combined flood-height visualization is a simplified estimate, not a detailed flood simulation. It illustrates the potential influence of rising sea levels on extreme water levels and should be interpreted alongside the assumptions and limitations of the underlying datasets.
+
+### **Project Link**
+
+- <a href="https://github.com/shayleeannf/SCIPE-CI-SIP_Mokuoloe_Dashboard.git"target="_blank" rel="noopener noreferrer">View the source code on GitHub</a>
+
+```         
+```

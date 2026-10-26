@@ -18,6 +18,4 @@ I built this dashboard using Python and it displays the data analysis I worked o
 
 ### **Find Me Online**
 
-[GitHub](https://github.com/shayleeannf)
-
-[LinkedIn](www.linkedin.com/in/shaylee-ann-billaber-ferrer-332111417)
+<a href="https://github.com/shayleeannf" target="_blank" rel="noopener noreferrer">GitHub</a> - <a href="https://www.linkedin.com/in/shaylee-ann-billaber-ferrer-332111417/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
