@@ -18,9 +18,7 @@ website:
 
 format:
   html:
-    theme:
-      light: pulse
-      dark: vapor
+    theme: pulse
     css: styles.css
     toc: true
 
