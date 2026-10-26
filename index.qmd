@@ -1,18 +1,23 @@
 ---
-title: "Personal Website"
+title: "Shaylee-Ann Billaber-Ferrer"
 image: media/image.jpg
 toc: false
 about:
   template: jolla
-  links:
-    - icon: github
-      href: https://github.com/shayleeannf
-      target: blank
 ---
 
-**Hi there!**
+### **Hi there!**
 
 I am a student at Chaminade University studying Computer Science and Data Science. This website serves as both a personal get to know me and an overview into the projects that I have created so far.
 
-```         
-```
+### **Featured Project**
+
+**Mokuoloe Dashboard**
+
+I built this dashboard using Python and it displays the data analysis I worked on during a summer internship. The data is centered around sea level rise and extreme water level events on Coconut Island (near the east side of Oahu). Visit the [Mokuoloe Dashboard](mokuoloe.qmd) page for more info!
+
+### **Find Me Online**
+
+[GitHub](https://github.com/shayleeannf)
+
+[LinkedIn](www.linkedin.com/in/shaylee-ann-billaber-ferrer-332111417)

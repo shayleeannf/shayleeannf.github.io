@@ -1,17 +1,17 @@
 /* css styles */
 h1 {
-  color: purple;
+  color: #543391;
   font-style: italic;
 }
 h2 {
   color: green;
 }
 p {
-  color: black;
+  color: grey;
 }
 body {
-  background-color: antiquewhite;
+  background-color: #FAF9F6;
 }
 a { /*link color: underlined and colored*/
-  color: red;
+  color: #7F66AD;
 }

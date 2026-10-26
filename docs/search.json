@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Shaylee-Ann Billaber-Ferrer",
     "section": "",
-    "text": "Hi there!\nI am a student at Chaminade University studying Computer Science and Data Science. This website serves as both a personal get to know me and an overview into the projects that I have created so far."
+    "text": "Hi there!\nI am a student at Chaminade University studying Computer Science and Data Science. This website serves as both a personal get to know me and an overview into the projects that I have created so far.\n\n\nFeatured Project\nMokuoloe Dashboard\nI built this dashboard using Python and it displays the data analysis I worked on during a summer internship. The data is centered around sea level rise and extreme water level events on Coconut Island (near the east side of Oahu). Visit the Mokuoloe Dashboard page for more info!\n\n\nFind Me Online\nGitHub\nLinkedIn"
   },
   {
     "objectID": "index.html#header-2",
@@ -26,5 +26,19 @@
     "title": "My Resume",
     "section": "",
     "text": "Download PDF file.\nView Resume"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Shaylee-Ann Billaber-Ferrer",
+    "section": "",
+    "text": "I am a student at Chaminade University studying Computer Science and Data Science. This website serves as both a personal get to know me and an overview into the projects that I have created so far."
+  },
+  {
+    "objectID": " mokuoloe.html",
+    "href": " mokuoloe.html",
+    "title": "Mokuoloe Dashboard",
+    "section": "",
+    "text": "hello"
   }
 ]

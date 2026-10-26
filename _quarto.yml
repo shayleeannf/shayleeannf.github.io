@@ -10,7 +10,7 @@ website:
         text: Home
       - href: resume.qmd
         text: Resume
-      - href: about.qmd
+      - href: mokuoloe.qmd
         text: Mokuoloe Dashboard
       - icon: github
         href: http://github.com/shayleeannf
